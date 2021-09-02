@@ -1,5 +1,5 @@
 # Marathi-Swear-Words
-Marathi(मराठी ) Swear Words + .txt Datasets
+Marathi(मराठी ) Swear Words
 
 * Author: [Aditya Kadam](https://github.com/Adi2K)
 * Author Email: [aditya.kadam@research.iiit.ac.in](mailto:aditya.kadam@research.iiit.ac.in)
