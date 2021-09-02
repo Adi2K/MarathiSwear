@@ -2,7 +2,7 @@
 Marathi(मराठी ) Swear Words + .txt Datasets
 
 * Author: [Aditya Kadam](https://github.com/Adi2K)
-* Author Email: [Mail](mailto:aditya.kadam@research,iiit.ac.in?subject=[GitHub : Marathi Swear]%20Source%20Han%20Sans)
+* Author Email: [aditya.kadam@research.iiit.ac.in](mailto:aditya.kadam@research.iiit.ac.in)
 * Last Update: 2 Sept, 2021
 * Data format: .txt
 * Contribute: Fork and Push Requests :)
